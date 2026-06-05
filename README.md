@@ -1,5 +1,11 @@
+<div align="center">
+  
 # Hi there, I'm 👋
-<a href="https://github.com/umairashraf"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=45&pause=1000&color=A020F0&width=435&lines=Umair+Ashraf" alt="Umair Ashraf" /></a>
+<a href="https://github.com/umairashraf">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=45&pause=1000&color=A020F0&center=true&vCenter=true&width=600&height=80&lines=UMAIR+ASHRAF" alt="UMAIR ASHRAF" />
+</a>
+
+</div>
 
 I am a dedicated **Software Developer** with a strong foundation in backend architecture and full-stack web development. I enjoy solving complex problems, writing clean code, and building efficient, data-driven applications from the ground up.
 
