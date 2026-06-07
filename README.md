@@ -2,7 +2,7 @@
   
 # Hi there, I'm 👋
 <a href="https://github.com/umairashraf">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=45&pause=1000&color=A020F0&center=true&vCenter=true&width=600&height=80&lines=UMAIR+ASHRAF" alt="UMAIR ASHRAF." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=45&pause=1000&color=A020F0&center=true&vCenter=true&width=600&height=80&lines=UMAIR+ASHRAF" alt="UMAIR ASHRAF" />
 </a>
 
 </div>
