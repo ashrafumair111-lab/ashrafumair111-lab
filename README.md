@@ -2,25 +2,46 @@
 
 # Hi there, I'm 👋
 
-<a href="https://github.com/umairashraf">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=45&pause=1000&color=A020F0&center=true&vCenter=true&width=600&height=80&lines=UMAIR+ASHRAF;SOFTWARE+DEVELOPER;BACKEND+%26+FULL-STACK+ENGINEER" alt="UMAIR ASHRAF" />
+<a href="https://github.com/ashrafumair111-lab">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&pause=1000&color=A020F0&center=true&vCenter=true&width=700&height=80&lines=UMAIR+ASHRAF;SOFTWARE+DEVELOPER;BACKEND+%26+FULL-STACK+ENGINEER;MERN+STACK+%7C+DOCKER+%7C+AWS" alt="UMAIR ASHRAF" />
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=umairashraf&label=Profile%20Views&color=a020f0&style=flat" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=ashrafumair111-lab&label=Profile%20Views&color=a020f0&style=flat" alt="Profile views" />
+
+<a href="mailto:ashrafumair111@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+<a href="https://github.com/ashrafumair111-lab"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
 </div>
 
+---
+
 ### 👨‍💻 About Me
 
-I'm a dedicated **Software Developer** with a strong foundation in backend architecture and full-stack web development. I enjoy solving complex problems, writing clean code, and building efficient, scalable, data-driven applications — from designing the database schema all the way to deploying it with a CI/CD pipeline.
+I'm a dedicated **Software Developer** with a strong foundation in backend architecture and full-stack web development. I enjoy solving complex problems, writing clean code, and building efficient, scalable, data-driven applications — from designing the database schema, to building the API layer, to deploying it in a container on the cloud with a CI/CD pipeline behind it.
+
+I started out with strong fundamentals in **Java** and **C++**, which gave me a solid grip on data structures, algorithms, and problem solving. From there I moved into full-stack web development, and I'm now expanding into modern backend, database, and DevOps tooling to become a well-rounded engineer capable of owning a project end-to-end.
 
 - 🏗️ Building robust **REST APIs** and backend services with **Node.js**
 - 🌐 Crafting responsive, modern UIs with **React**
-- 🐳 Containerizing and shipping applications using **Docker** and **CI/CD pipelines**
+- 🗄️ Working with both relational (**MySQL**) and NoSQL (**MongoDB**) databases
+- ☁️ Deploying and managing applications on **AWS**
+- 🐳 Containerizing applications with **Docker** and automating delivery with **CI/CD pipelines**
 - 🧠 Strong problem-solving foundation in **Java** and **C++**
-- 📊 Designing schemas and optimizing queries for relational databases
 - 🐍 Continuously expanding my backend versatility with **Python**
-- 📈 Currently focused on deepening my full-stack and DevOps skills
+- 📈 Currently focused on deepening my full-stack, cloud, and DevOps skills
+- 🤝 Open to internships, freelance work, and collaborative open-source projects
+
+---
+
+### 🚀 What I Do
+
+| Area | Details |
+|---|---|
+| 🏗️ **Backend Engineering** | Designing REST APIs, business logic, and server-side architecture using Node.js, Java, and C++ |
+| 🌐 **Frontend Development** | Building responsive, component-driven interfaces with React, HTML5, and CSS3 |
+| 📊 **Database Design** | Modeling relational schemas in MySQL and document-based structures in MongoDB, optimizing queries for performance |
+| ☁️ **Cloud & DevOps** | Deploying applications on AWS, containerizing services with Docker, and automating builds/releases with CI/CD pipelines |
+| 🔁 **Version Control & Collaboration** | Managing codebases with Git and GitHub, following clean branching and review workflows |
 
 ---
 
@@ -51,15 +72,17 @@ I'm a dedicated **Software Developer** with a strong foundation in backend archi
   <img src="https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="REST API" />
 </p>
 
-**Database**
+**Databases**
 
 <p align="left">
   <img src="https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 </p>
 
-**DevOps & Workflow**
+**Cloud, DevOps & Workflow**
 
 <p align="left">
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
@@ -71,25 +94,59 @@ I'm a dedicated **Software Developer** with a strong foundation in backend archi
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=umairashraf&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=umairashraf&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ashrafumair111-lab&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ashrafumair111-lab&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umairashraf&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashrafumair111-lab&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashrafumair111-lab&theme=redical&hide_border=true" alt="Contribution Graph" />
+</div>
+
+---
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ashrafumair111-lab&theme=radical&no-frame=true&column=7&margin-w=8" alt="GitHub Trophies" />
+</div>
+
+---
+
+### 📌 Featured Projects
+
+> *Pin your best repositories on your GitHub profile (via the "Customize your pins" option) so they appear right below this README — recruiters and visitors check those first!*
+
+| Project | Description | Tech Used |
+|---|---|---|
+| 🔹 *Project Name* | *Short one-line description of what it does and the problem it solves* | Node.js, React, MongoDB |
+| 🔹 *Project Name* | *Short one-line description of what it does and the problem it solves* | Java, MySQL |
+| 🔹 *Project Name* | *Short one-line description of what it does and the problem it solves* | Docker, AWS, CI/CD |
+
+---
+
+### 🎯 Goals for This Year
+
+- ✅ Strengthen backend fundamentals with Node.js and REST API design
+- ✅ Get comfortable deploying full-stack apps on AWS
+- 🔄 Build and ship a complete MERN stack project with CI/CD
+- 🔄 Contribute to at least one open-source project
+- 🔲 Earn a cloud certification (AWS Certified Developer / Solutions Architect)
 
 ---
 
 ### 📫 Let's Connect!
 
-I'm always open to discussing tech, collaborating on interesting projects, or exploring new opportunities.
+I'm always open to discussing tech, collaborating on interesting projects, or exploring new opportunities. Feel free to reach out — I usually reply within a day!
 
 <p align="left">
   <a href="mailto:ashrafumair111@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://github.com/umairashraf">
+  <a href="https://github.com/ashrafumair111-lab">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
@@ -98,7 +155,10 @@ I'm always open to discussing tech, collaborating on interesting projects, or ex
 
 <div align="center">
 
+### 💭 Quote I Code By
+
+*"Clean code always looks like it was written by someone who cares." — Robert C. Martin*
+
 ⭐️ *Feel free to explore my pinned repositories below to see my work in action!*
 
 </div>
-
