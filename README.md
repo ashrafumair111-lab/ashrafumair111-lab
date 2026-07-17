@@ -103,15 +103,7 @@ I started out with strong fundamentals in **Java** and **C++**, which gave me a 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashrafumair111-lab&theme=redical&hide_border=true" alt="Contribution Graph" />
-</div>
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ashrafumair111-lab&theme=radical&no-frame=true&column=7&margin-w=8" alt="GitHub Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashrafumair111-lab&theme=radical&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ---
