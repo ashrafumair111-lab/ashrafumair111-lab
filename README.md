@@ -122,9 +122,11 @@ I started out with strong fundamentals in **Java** and **C++**, which gave me a 
 
 | Project | Description | Tech Used |
 |---|---|---|
-| 🔹 *Project Name* | *Short one-line description of what it does and the problem it solves* | Node.js, React, MongoDB |
-| 🔹 *Project Name* | *Short one-line description of what it does and the problem it solves* | Java, MySQL |
+| 🎵 **Spotify Clone (MERN Stack)** | A full-stack music streaming app with user authentication, playlist creation, and a media player UI — backed by a REST API and MongoDB | React, Node.js, Express.js, MongoDB |
+| 🛒 **E-Commerce App (MERN Stack)** | A complete online store with product catalog, cart, checkout flow, and an admin panel for managing products and orders | React, Node.js, Express.js, MongoDB |
 | 🔹 *Project Name* | *Short one-line description of what it does and the problem it solves* | Docker, AWS, CI/CD |
+
+> 🔗 *Add the links to these repos here once pushed, e.g. `[Spotify Clone](https://github.com/ashrafumair111-lab/spotify-clone-mern)`*
 
 ---
 
