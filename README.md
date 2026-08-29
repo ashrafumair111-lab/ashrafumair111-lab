@@ -15,7 +15,9 @@
 
 ## 👨‍💻 About Me
 
-Software Developer and aspiring AI Engineer focused on building reliable backend systems, full-stack applications, and AI-powered software.
+I'm a Software Developer and aspiring AI Engineer focused on building reliable backend systems, full-stack applications, and AI-powered software.
+
+My journey started with C++ and Java, then moved into full-stack web development with React, Node.js, Express, MongoDB, and MySQL. Now I'm expanding into AI Engineering — specializing in **RAG systems, LLM applications, AI Agents, LangChain, LangGraph, and Vector Databases**.
 
 - 🤖 **AI Engineering** — LLMs, RAG, AI Agents, LangChain, LangGraph, Vector DBs (Qdrant, Chroma, FAISS)
 - 🏗️ **Backend** — Node.js, Express.js, REST APIs, System Design
@@ -23,6 +25,20 @@ Software Developer and aspiring AI Engineer focused on building reliable backend
 - 🗄️ **Databases** — MongoDB, MySQL
 - 🐍 **Languages** — C++, Java, JavaScript, Python
 - ☁️ **DevOps** — Docker, AWS, GitHub Actions, CI/CD
+
+---
+
+## 🚀 What I Do
+
+### 🤖 AI & LLM Engineering
+
+I build production-grade **RAG (Retrieval-Augmented Generation)** systems that connect LLMs to external knowledge using vector search and semantic retrieval. My pipelines cover document loading, text chunking, embeddings, vector storage, and context-aware generation.
+
+I also work with **AI Agents** — systems that reason through tasks, use tools, maintain state, and execute multi-step workflows using **LangChain** and **LangGraph**.
+
+### 🏗️ Backend & Full-Stack Development
+
+I enjoy working across the full application lifecycle — from designing databases and REST APIs to building modern React frontends, containerizing with Docker, and deploying to AWS with CI/CD pipelines.
 
 ---
 
@@ -104,7 +120,11 @@ Software Developer and aspiring AI Engineer focused on building reliable backend
 | 🎵 [SpotifyLite](https://github.com/ashrafumair111-lab/SpotifyLite-Full-Stack-App) | Full-stack music streaming app with auth, playlists, media player, REST APIs | React, Node.js, Express, MongoDB |
 | 🏋️ [GYM Platform](https://github.com/ashrafumair111-lab/GYM-FULL-STACK-WEBSITE) | Full-stack gym platform with membership, booking, content management | React, Node.js, Express, MongoDB |
 
-🤖 **Upcoming:** RAG Knowledge Assistant • AI Agent with Tools • LangGraph Workflows • Conversational RAG System
+🤖 **Upcoming AI Projects:**
+- 📚 RAG Knowledge Assistant — Ask questions over documents using Qdrant vector search
+- 🤖 AI Agent with Tools — Agent capable of selecting and using external tools
+- 🔗 LangGraph Agent Workflow — Stateful agent with tool calling and multi-step execution
+- 💬 Conversational RAG System — Chat with conversation history and Qdrant retrieval
 
 ---
 
@@ -118,7 +138,9 @@ Software Developer and aspiring AI Engineer focused on building reliable backend
 
 ---
 
-## 📫 Connect
+## 📫 Let's Connect
+
+I'm open to internships, collaborations, and interesting projects in software engineering, backend systems, AI engineering, and LLM applications.
 
 <p align="left">
   <a href="mailto:ashrafumair111@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
